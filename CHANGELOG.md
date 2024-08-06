@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.19.0](https://github.com/KohlbacherLab/dnpm-dip-portal/compare/v1.18.0...v1.19.0) (2024-08-06)
+
+
+### Features
+
+* initial site-picker implmementation ([#568](https://github.com/KohlbacherLab/dnpm-dip-portal/issues/568)) ([bd32314](https://github.com/KohlbacherLab/dnpm-dip-portal/commit/bd3231423dfb38a65575d543b0d231fedaf40898))
+
 ## [1.18.0](https://github.com/KohlbacherLab/dnpm-dip-portal/compare/v1.17.0...v1.18.0) (2024-07-31)
 
 
