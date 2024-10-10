@@ -1,5 +1,12 @@
 # @dnpm-dip/core
 
+## [1.26.0](https://github.com/KohlbacherLab/dnpm-dip-portal/compare/v1.25.0...v1.26.0) (2024-10-10)
+
+
+### Features
+
+* initial query-session-store implementation ([f8f1292](https://github.com/KohlbacherLab/dnpm-dip-portal/commit/f8f1292ff9846b0be86e2050daba5d0976cef852))
+
 ## [1.25.0](https://github.com/KohlbacherLab/dnpm-dip-portal/compare/v1.24.0...v1.25.0) (2024-10-07)
 
 
