@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.26.0](https://github.com/KohlbacherLab/dnpm-dip-portal/compare/v1.25.0...v1.26.0) (2024-10-10)
+
+
+### Features
+
+* align rd submission error to mtb use case ([0c52802](https://github.com/KohlbacherLab/dnpm-dip-portal/commit/0c52802a7e30c27f7a31e7ec19c9eb7a91ac2c42))
+* initial query-session-store implementation ([f8f1292](https://github.com/KohlbacherLab/dnpm-dip-portal/commit/f8f1292ff9846b0be86e2050daba5d0976cef852))
+* show auth providers on login page ([#814](https://github.com/KohlbacherLab/dnpm-dip-portal/issues/814)) ([cd30aa9](https://github.com/KohlbacherLab/dnpm-dip-portal/commit/cd30aa9d0be17292b2c46541ae8dc92c914ca269))
+
+
+### Bug Fixes
+
+* set cookie domain on set/get/unset operations ([e3f96a3](https://github.com/KohlbacherLab/dnpm-dip-portal/commit/e3f96a3f199274266b8c7f2bf8af2e95a9e9ec0f))
+
 ## [1.25.0](https://github.com/KohlbacherLab/dnpm-dip-portal/compare/v1.24.0...v1.25.0) (2024-10-07)
 
 
